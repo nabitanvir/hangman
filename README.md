@@ -1,5 +1,5 @@
 # hangman
-Hangman game that ties JS and HTML
+Hangman game that ties JavaScript and HTML
 
 Project meeting 10/30/21
 
